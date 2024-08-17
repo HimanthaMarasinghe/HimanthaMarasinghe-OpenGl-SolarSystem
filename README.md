@@ -1,1 +1,1 @@
-# HimanthaMarasinghe-OpenGl-SolarSystem
+#OpenGl-SolarSystem
